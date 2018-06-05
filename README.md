@@ -12,6 +12,7 @@
 - [jeyroik/php-yandex-alisa-advanced](https://github.com/jeyroik/php-yandex-alisa-advanced) - PHP library.
 - [jeyroik/php-yandex-alisa-simple](https://github.com/jeyroik/php-yandex-alisa-simple) - Пример на PHP.
 - [Boberneprotiv/DotnetAlisa](https://github.com/Boberneprotiv/DotnetAlisa) - Пример на C#.
+- [toby3d/dialogs](https://github.com/toby3d/dialogs) – GO SDK
 
 ## Конструкторы и платформы
 
