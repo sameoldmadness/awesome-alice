@@ -9,6 +9,7 @@
 - [skoif/Yandex-Dialogs](https://github.com/skoif/Yandex-Dialogs) – JS SDK.
 - [Dikower/Alice_SeaBattle_YandexHackathone](https://github.com/Dikower/Alice_SeaBattle_YandexHackathone/blob/master/alice_sdk.py) – Python SDK.
 - [mesilov/yandex-dialogs-php-sdk](https://github.com/mesilov/yandex-dialogs-php-sdk.git) – PHP SDK.
+- [jeyroik/php-yandex-alisa-advanced](https://github.com/jeyroik/php-yandex-alisa-advanced) - PHP library.
 - [jeyroik/php-yandex-alisa-simple](https://github.com/jeyroik/php-yandex-alisa-simple) – Пример на PHP.
 - [Boberneprotiv/DotnetAlisa](https://github.com/Boberneprotiv/DotnetAlisa) – Пример на C#.
 
