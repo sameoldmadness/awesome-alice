@@ -13,6 +13,7 @@
 - [jeyroik/php-yandex-alisa-simple](https://github.com/jeyroik/php-yandex-alisa-simple) - Пример на PHP.
 - [Boberneprotiv/DotnetAlisa](https://github.com/Boberneprotiv/DotnetAlisa) - Пример на C#.
 - [toby3d/dialogs](https://github.com/toby3d/dialogs) – GO SDK
+- [seralexeev/alice-dotnet](https://github.com/seralexeev/alice-dotnet) - Пример на c# и .net core.
 
 ## Конструкторы и платформы
 
