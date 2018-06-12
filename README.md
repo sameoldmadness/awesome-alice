@@ -27,3 +27,4 @@
 
 - [Неофициальный FAQ](https://docs.google.com/document/d/1SWxcIL0eKaMCIiuym6DQ4CtascBwm4IU1EL-Oxc2ldk/edit#heading=h.x6xi4enam35v).
 - [aliceskill](https://aliceskill.ru/) - Неофициальный каталог навыков.
+- [popstas/yandex-dialogs-client](https://github.com/popstas/yandex-dialogs-client) - Клиент для локального тестирования навыков.
