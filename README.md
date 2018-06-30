@@ -20,8 +20,9 @@
 
 - [verter](https://www.verter.online/) - Создание навыков без программирования.
 - [tobotornot](http://alisa.tobotornot.com/) - Конструктор навыков.
-- [dialogflower](https://dialogflower.com/) - Создание навыков без серверов и программирования.
+- [dialogflower](https://dialogflower.com/) - Google Dialogflow для Яндекс Алисы.
 - [aimylogic](https://app.aimylogic.com) - Визуальный конструктор навыков.
+- [pipe.bot](https://pipe.bot/) – Конструктор ботов с поддержкой Алисы.
 
 ## Прочее
 
