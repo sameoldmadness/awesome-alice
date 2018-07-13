@@ -24,6 +24,7 @@
 - [dialogflower](https://dialogflower.com/) - Google Dialogflow для Яндекс Алисы.
 - [aimylogic](https://app.aimylogic.com) - Визуальный конструктор навыков.
 - [pipe.bot](https://pipe.bot/) – Конструктор ботов с поддержкой Алисы.
+- [Tortu](https://tortu.io/) – Инструмент для проектирования (дизайна) навыков.
 
 ## Прочее
 
