@@ -15,6 +15,7 @@
 - [toby3d/dialogs](https://github.com/toby3d/dialogs) – GO SDK
 - [seralexeev/alice-dotnet](https://github.com/seralexeev/alice-dotnet) - Пример на c# и .net core.
 - [sameoldmadness/alice-ts](https://github.com/sameoldmadness/alice-ts) - Пример на TypeScript.
+- [surik00/aioAlice](https://github.com/surik00/aioalice) - asyncio библиотека для Python 3.6+.
 
 ## Конструкторы и платформы
 
