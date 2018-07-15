@@ -17,6 +17,7 @@
 - [sameoldmadness/alice-ts](https://github.com/sameoldmadness/alice-ts) - Пример на TypeScript.
 - [surik00/aioAlice](https://github.com/surik00/aioalice) - asyncio библиотека для Python 3.6+.
 - [popstas/yandex-dialogs-whatis](https://github.com/popstas/yandex-dialogs-whatis) - Пример на yandex-dialogs-sdk, навык "Вторая память"
+- [let-robots-reign/RussianHistory_Quiz](https://github.com/let-robots-reign/RussianHistory_Quiz) - Пример на Python, навык "Викторина по истории России"
 
 ## Конструкторы и платформы
 
