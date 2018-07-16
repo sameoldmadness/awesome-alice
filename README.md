@@ -49,7 +49,6 @@
 - [jeyroik/php-yandex-alisa-simple](https://github.com/jeyroik/php-yandex-alisa-simple) - Пример на PHP.
 - [seralexeev/alice-dotnet](https://github.com/seralexeev/alice-dotnet) - Пример на c# и .net core.
 - [sameoldmadness/alice-ts](https://github.com/sameoldmadness/alice-ts) - Пример на TypeScript.
-- [Boberneprotiv/DotnetAlisa](https://github.com/Boberneprotiv/DotnetAlisa) - Пример на C#.
 
 ### Open-source навыки
 
