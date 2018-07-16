@@ -27,13 +27,18 @@
 
 - [SavinMike/alice-kotlin-bot](https://github.com/SavinMike/alice-kotlin-bot) - Kotlin SDK
 
-## Примеры
+## Примеры и навыки
+
+### Примеры
 
 - [yandex/alice-skills](https://github.com/yandex/alice-skills) - Примеры от Яндекса.
 - [jeyroik/php-yandex-alisa-simple](https://github.com/jeyroik/php-yandex-alisa-simple) - Пример на PHP.
-- [Boberneprotiv/DotnetAlisa](https://github.com/Boberneprotiv/DotnetAlisa) - Пример на C#.
 - [seralexeev/alice-dotnet](https://github.com/seralexeev/alice-dotnet) - Пример на c# и .net core.
 - [sameoldmadness/alice-ts](https://github.com/sameoldmadness/alice-ts) - Пример на TypeScript.
+- [Boberneprotiv/DotnetAlisa](https://github.com/Boberneprotiv/DotnetAlisa) - Пример на C#.
+
+### Open-source навыки
+
 - [popstas/yandex-dialogs-whatis](https://github.com/popstas/yandex-dialogs-whatis) - Пример на yandex-dialogs-sdk, навык "Вторая память"
 - [ShoshinNikita/radio-t-bot](https://github.com/ShoshinNikita/radio-t-bot) - Пример на Go, навык "Радио Т"
 - [let-robots-reign/RussianHistory_Quiz](https://github.com/let-robots-reign/RussianHistory_Quiz) - Пример на Python, навык "Викторина по истории России"
