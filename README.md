@@ -12,10 +12,10 @@
     * [Go](#go)
     * [Kotlin](#kotlin)
   * [Тестирование](#Тестирование)
+  * [Конструкторы и платформы](#Конструкторы-и-платформы)
 * [Примеры и навыки](#Примеры-и-навыки)
   * [Примеры](#Примеры)
   * [Open-source навыки](#open-source-навыки)
-* [Конструкторы и платформы](#Конструкторы-и-платформы)
 * [Прочее](#Прочее)
 
 ## Разработка
@@ -50,6 +50,17 @@
 - [popstas/yandex-dialogs-client](https://github.com/popstas/yandex-dialogs-client) - Клиент для локального тестирования навыков
 - [Симулятор Яндекс Станции](https://station.aimylogic.com/) - Голосовой симулятор в браузере для тестирования навыков
 
+### Конструкторы и платформы
+
+- [verter](https://www.verter.online/) - Создание навыков без программирования
+- [tobotornot](http://alisa.tobotornot.com/) - Конструктор навыков
+- [dialogflower](https://dialogflower.com/) - Google Dialogflow для Яндекс Алисы
+- [aimylogic](https://app.aimylogic.com) - Визуальный конструктор навыков
+- [pipe.bot](https://pipe.bot/) - Конструктор ботов с поддержкой Алисы
+- [Tortu](https://tortu.io/) - Инструмент для проектирования (дизайна) навыков
+- [aimytellme](https://app.aimytellme.com) - Конструктор новостных навыков для Алисы
+
+
 ## Примеры и навыки
 
 ### Примеры
@@ -64,16 +75,6 @@
 - [popstas/yandex-dialogs-whatis](https://github.com/popstas/yandex-dialogs-whatis) - Пример на yandex-dialogs-sdk, навык [Вторая память](https://dialogs.yandex.ru/store/skills/00203e6e-vtoraya-pamya)
 - [ShoshinNikita/radio-t-bot](https://github.com/ShoshinNikita/radio-t-bot) - Пример на Go, навык [Радио-Т](https://dialogs.yandex.ru/store/skills/59f0e8df-radio-t-hitech-podkast-vyhodnogo-dnya)
 - [let-robots-reign/RussianHistory_Quiz](https://github.com/let-robots-reign/RussianHistory_Quiz) - Пример на Python, навык [Викторина по истории России](https://dialogs.yandex.ru/store/skills/3af72151-viktorina-po-istorii-rossii)
-
-## Конструкторы и платформы
-
-- [verter](https://www.verter.online/) - Создание навыков без программирования
-- [tobotornot](http://alisa.tobotornot.com/) - Конструктор навыков
-- [dialogflower](https://dialogflower.com/) - Google Dialogflow для Яндекс Алисы
-- [aimylogic](https://app.aimylogic.com) - Визуальный конструктор навыков
-- [pipe.bot](https://pipe.bot/) - Конструктор ботов с поддержкой Алисы
-- [Tortu](https://tortu.io/) - Инструмент для проектирования (дизайна) навыков
-- [aimytellme](https://app.aimytellme.com) - Конструктор новостных навыков для Алисы
 
 ## Прочее
 
