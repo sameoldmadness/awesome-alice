@@ -24,26 +24,26 @@
 
 #### JS
 
-- [fletcherist/yandex-dialogs-sdk](https://github.com/fletcherist/yandex-dialogs-sdk) - JS SDK
-- [skoif/Yandex-Dialogs](https://github.com/skoif/Yandex-Dialogs) - JS SDK
+- [fletcherist/yandex-dialogs-sdk](https://github.com/fletcherist/yandex-dialogs-sdk)
+- [skoif/Yandex-Dialogs](https://github.com/skoif/Yandex-Dialogs)
 
 #### Python
 
-- [Dikower/Alice_SeaBattle_YandexHackathone](https://github.com/Dikower/Alice_SeaBattle_YandexHackathone/blob/master/alice_sdk.py) - Python SDK
+- [Dikower/Alice_SeaBattle_YandexHackathone](https://github.com/Dikower/Alice_SeaBattle_YandexHackathone/blob/master/alice_sdk.py)
 - [surik00/aioAlice](https://github.com/surik00/aioalice) - asyncio библиотека для Python 3.6+
 
 #### PHP
 
-- [mesilov/yandex-dialogs-php-sdk](https://github.com/mesilov/yandex-dialogs-php-sdk.git) - PHP SDK
-- [jeyroik/php-yandex-alisa-advanced](https://github.com/jeyroik/php-yandex-alisa-advanced) - PHP SDK
+- [mesilov/yandex-dialogs-php-sdk](https://github.com/mesilov/yandex-dialogs-php-sdk.git)
+- [jeyroik/php-yandex-alisa-advanced](https://github.com/jeyroik/php-yandex-alisa-advanced)
 
 #### Go
 
-- [toby3d/dialogs](https://github.com/toby3d/dialogs) - Go SDK
+- [toby3d/dialogs](https://github.com/toby3d/dialogs)
 
 #### Kotlin
 
-- [SavinMike/alice-kotlin-bot](https://github.com/SavinMike/alice-kotlin-bot) - Kotlin SDK
+- [SavinMike/alice-kotlin-bot](https://github.com/SavinMike/alice-kotlin-bot)
 
 ### Тестирование
 
