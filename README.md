@@ -53,7 +53,7 @@
 ### Конструкторы и платформы
 
 - [verter](https://www.verter.online/) - Создание навыков без программирования
-- [tobotornot](http://alisa.tobotornot.com/) - Конструктор навыков
+- [alfabot](http://alfabot.xyz/) - Конструктор навыков
 - [dialogflower](https://dialogflower.com/) - Google Dialogflow для Яндекс Алисы
 - [aimylogic](https://app.aimylogic.com) - Визуальный конструктор навыков
 - [pipe.bot](https://pipe.bot/) - Конструктор ботов с поддержкой Алисы
