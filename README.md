@@ -69,6 +69,7 @@
 - [jeyroik/php-yandex-alisa-simple](https://github.com/jeyroik/php-yandex-alisa-simple) - Пример на PHP
 - [seralexeev/alice-dotnet](https://github.com/seralexeev/alice-dotnet) - Пример на С# и .NET Core
 - [sameoldmadness/alice-ts](https://github.com/sameoldmadness/alice-ts) - Пример на TypeScript
+- [surik00/aioAlice](https://github.com/surik00/aioalice/tree/master/examples) - Примеры на Python + aioAlice
 
 ### Open-source навыки
 
