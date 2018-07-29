@@ -59,6 +59,7 @@
 - [pipe.bot](https://pipe.bot/) - Конструктор ботов с поддержкой Алисы
 - [Tortu](https://tortu.io/) - Инструмент для проектирования (дизайна) навыков
 - [aimytellme](https://app.aimytellme.com) - Конструктор новостных навыков для Алисы
+- [alicebot.pro](https://alicebot.pro) - Cоздание навыков без программирования
 
 
 ## Примеры и навыки
@@ -76,6 +77,7 @@
 - [popstas/yandex-dialogs-whatis](https://github.com/popstas/yandex-dialogs-whatis) - Пример на yandex-dialogs-sdk, навык [Вторая память](https://dialogs.yandex.ru/store/skills/00203e6e-vtoraya-pamya)
 - [ShoshinNikita/radio-t-bot](https://github.com/ShoshinNikita/radio-t-bot) - Пример на Go, навык [Радио-Т](https://dialogs.yandex.ru/store/skills/59f0e8df-radio-t-hitech-podkast-vyhodnogo-dnya)
 - [let-robots-reign/RussianHistory_Quiz](https://github.com/let-robots-reign/RussianHistory_Quiz) - Пример на Python, навык [Викторина по истории России](https://dialogs.yandex.ru/store/skills/3af72151-viktorina-po-istorii-rossii)
+- [xoposhiy/prog-eng-alice](https://github.com/xoposhiy/prog-eng-alice) – Пример на C#, Навык Алисы для изучения программистского английского
 
 ## Прочее
 
