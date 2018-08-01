@@ -31,6 +31,7 @@
 
 - [Dikower/Alice_SeaBattle_YandexHackathone](https://github.com/Dikower/Alice_SeaBattle_YandexHackathone/blob/master/alice_sdk.py)
 - [surik00/aioAlice](https://github.com/surik00/aioalice) - asyncio библиотека для Python 3.6+
+- [borzunov/alice_scripts](https://github.com/borzunov/alice_scripts)
 
 #### PHP
 
@@ -71,6 +72,7 @@
 - [seralexeev/alice-dotnet](https://github.com/seralexeev/alice-dotnet) - Пример на С# и .NET Core
 - [sameoldmadness/alice-ts](https://github.com/sameoldmadness/alice-ts) - Пример на TypeScript
 - [surik00/aioAlice](https://github.com/surik00/aioalice/tree/master/examples) - Примеры на Python + aioAlice
+- [borzunov/alice_scripts](https://github.com/borzunov/alice_scripts#%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B) - Примеры на Python + alice_scripts
 
 ### Open-source навыки
 
