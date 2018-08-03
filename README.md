@@ -37,6 +37,7 @@
 
 - [mesilov/yandex-dialogs-php-sdk](https://github.com/mesilov/yandex-dialogs-php-sdk.git)
 - [jeyroik/php-yandex-alisa-advanced](https://github.com/jeyroik/php-yandex-alisa-advanced)
+- [Danil005/php-yandex-alisa](https://github.com/Danil005/php-yandex-alisa)
 
 #### Go
 
