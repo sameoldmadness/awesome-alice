@@ -62,6 +62,7 @@
 - [Tortu](https://tortu.io/) - Инструмент для проектирования (дизайна) навыков
 - [aimytellme](https://app.aimytellme.com) - Конструктор новостных навыков для Алисы
 - [alicebot.pro](https://alicebot.pro) - Cоздание навыков без программирования
+- [DeepPavlov](https://deeppavlov.ai/) - Библиотека для разработки диалоговых систем
 
 
 ## Примеры и навыки
