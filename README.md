@@ -53,6 +53,7 @@
 - [popstas/yandex-dialogs-client](https://github.com/popstas/yandex-dialogs-client) - Клиент для локального тестирования навыков
 - [Симулятор Яндекс Станции](https://station.aimylogic.com/) - Голосовой симулятор в браузере для тестирования навыков
 - [Тест прокси](https://dialogs.yandex.ru/store/skills/42f51951-test-proksi) - Навык алисы, проксирует запросы на указанный адрес
+- [Эмулятор Алисы](https://github.com/vb64/test.helper.yandex.alice.flask) - Для юнит-тестов навыков, реализованных как приложение python/flask
 
 ### Конструкторы и платформы
 
