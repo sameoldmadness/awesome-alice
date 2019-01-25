@@ -90,6 +90,7 @@
 
 ## Чаты
 
+- https://t.me/yadialogschat - Сообщество разработчиков Яндекс.Диалогов
 - https://t.me/station_yandex - Чат для пользователей Яндекс.Станции
 - https://t.me/yandex_phone - Чат для пользователей Яндекс.Телефон
 - https://t.me/yandexdb - Новости и полезная информация про Яндекс.Станцию, Dexp Smartbox, Irbis A
