@@ -16,6 +16,7 @@
 * [Примеры и навыки](#Примеры-и-навыки)
   * [Примеры](#Примеры)
   * [Open-source навыки](#open-source-навыки)
+* [Чаты](#Чаты)
 * [Прочее](#Прочее)
 
 ## Разработка
@@ -86,6 +87,13 @@
 - [ShoshinNikita/radio-t-bot](https://github.com/ShoshinNikita/radio-t-bot) - Пример на Go, навык [Радио-Т](https://dialogs.yandex.ru/store/skills/59f0e8df-radio-t-hitech-podkast-vyhodnogo-dnya)
 - [let-robots-reign/RussianHistory_Quiz](https://github.com/let-robots-reign/RussianHistory_Quiz) - Пример на Python, навык [Викторина по истории России](https://dialogs.yandex.ru/store/skills/3af72151-viktorina-po-istorii-rossii)
 - [xoposhiy/prog-eng-alice](https://github.com/xoposhiy/prog-eng-alice) – Пример на C#, Навык Алисы для изучения программистского английского
+
+## Чаты
+
+- https://t.me/station_yandex - Чат для пользователей Яндекс.Станции
+- https://t.me/yandex_phone - Чат для пользователей Яндекс.Телефон
+- https://t.me/yandexdb - Новости и полезная информация про Яндекс.Станцию, Dexp Smartbox, Irbis A
+- https://t.me/floodyastation - Флудилка для пользователей Яндекс Станции
 
 ## Прочее
 
