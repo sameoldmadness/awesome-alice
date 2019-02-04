@@ -95,8 +95,10 @@
 - https://t.me/yandex_phone - Чат для пользователей Яндекс.Телефон
 - https://t.me/yandexdb - Новости и полезная информация про Яндекс.Станцию, Dexp Smartbox, Irbis A
 - https://t.me/floodyastation - Флудилка для пользователей Яндекс Станции
+- https://t.me/NewAliceSkills - Автоматический сканер новых навыков
 
 ## Прочее
 
 - [Неофициальный FAQ](https://docs.google.com/document/d/1SWxcIL0eKaMCIiuym6DQ4CtascBwm4IU1EL-Oxc2ldk/edit#heading=h.x6xi4enam35v)
 - [aliceskill](https://aliceskill.ru/) - Неофициальный каталог навыков
+- [alice.voice-ui.ru](https://alice.voice-ui.ru) - Неофициальный каталог навыков с сортировкой по новизне
