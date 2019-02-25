@@ -27,6 +27,7 @@
 
 - [fletcherist/yandex-dialogs-sdk](https://github.com/fletcherist/yandex-dialogs-sdk)
 - [skoif/Yandex-Dialogs](https://github.com/skoif/Yandex-Dialogs)
+- [vitalets/alice-renderer](https://github.com/vitalets/alice-renderer) - Библиотека для формирования ответов в навыках Алисы
 
 #### Python
 
