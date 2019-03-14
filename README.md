@@ -105,3 +105,4 @@
 - [Неофициальный FAQ](https://docs.google.com/document/d/1SWxcIL0eKaMCIiuym6DQ4CtascBwm4IU1EL-Oxc2ldk/edit#heading=h.x6xi4enam35v)
 - [aliceskill](https://aliceskill.ru/) - Неофициальный каталог навыков
 - [alice.voice-ui.ru](https://alice.voice-ui.ru) - Неофициальный каталог навыков с сортировкой по новизне
+- [https://t.me/NewAliceSkills](https://t.me/NewAliceSkills) - Телеграм канал-сканер новых опубликованных навыков
