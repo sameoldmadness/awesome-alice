@@ -46,6 +46,7 @@
 
 - [toby3d/dialogs](https://github.com/toby3d/dialogs)
 - [bbrodriges/mielofon](https://github.com/bbrodriges/mielofon)
+- [AlekSi/alice](https://github.com/AlekSi/alice)
 
 #### Kotlin
 
