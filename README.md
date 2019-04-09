@@ -41,6 +41,7 @@
 - [jeyroik/php-yandex-alisa-advanced](https://github.com/jeyroik/php-yandex-alisa-advanced)
 - [Danil005/php-yandex-alisa](https://github.com/Danil005/php-yandex-alisa)
 - [thesoultaker48/yandex-dialogs-php](https://github.com/thesoultaker48/yandex-dialogs-php)
+- [zz-anton/ru.foralice.yandex-dialogs-api-hide-my-oauth](https://github.com/zz-anton/ru.foralice.yandex-dialogs-api-hide-my-oauth) - скрипт для работы сервиса [ImgAdmin](https://imgAdmin.forAlice.ru) с безопасным использованием конфиденциального идентификатора OAuth пользователя. В коде реализованы методы для работы с изображениями через API Яндекс.Диалогов.
 
 #### Go
 
@@ -72,7 +73,7 @@
 - [aimytellme](https://app.aimytellme.com) - Конструктор новостных навыков для Алисы
 - [alicebot.pro](https://alicebot.pro) - Cоздание навыков без программирования
 - [DeepPavlov](https://deeppavlov.ai/) - Библиотека для разработки диалоговых систем
-
+- [ImgAdmin](https://imgadmin.foralice.ru/) - Администратор изображений для системы Яндекс.Диалоги / Навыки Алисы
 
 ## Примеры и навыки
 
