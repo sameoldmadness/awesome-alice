@@ -95,6 +95,9 @@
 - [xoposhiy/prog-eng-alice](https://github.com/xoposhiy/prog-eng-alice) – Пример на C#, Навык Алисы для изучения программистского английского
 - [vb64/bulls_cows](https://github.com/vb64/bulls_cows) - Пример на Python/Flask, для развертывания на [GoogleAppEngine Standard Environment](https://cloud.google.com/appengine/docs/standard/) навык [логическая игра быки и коровы](https://alice.ya.ru/s/59166701-101b-44b3-b7e3-b7e078036890)
 
+## Умный дом
+- [popstas/yandex-dialogs-smarthome-mqtt](https://github.com/popstas/yandex-dialogs-smarthome-mqtt) - Пример Provider Adapter API для управления MQTT устройствами
+
 ## Чаты
 
 - https://t.me/yadialogschat - Сообщество разработчиков Яндекс.Диалогов
