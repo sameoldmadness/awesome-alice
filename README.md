@@ -98,7 +98,7 @@
 
 ## Умный дом
 - [popstas/yandex-dialogs-smarthome-mqtt](https://github.com/popstas/yandex-dialogs-smarthome-mqtt) - Пример Provider Adapter API для управления MQTT устройствами
-
+- [munrexio/yandex2mqtt](https://github.com/munrexio/yandex2mqtt) - Мост из Яндекс УД в MQTT на Node.js
 ## Чаты
 
 - https://t.me/yadialogschat - Сообщество разработчиков Яндекс.Диалогов
