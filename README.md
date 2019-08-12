@@ -48,6 +48,7 @@
 - [toby3d/dialogs](https://github.com/toby3d/dialogs)
 - [bbrodriges/mielofon](https://github.com/bbrodriges/mielofon)
 - [AlekSi/alice](https://github.com/AlekSi/alice)
+- [azzzak/alice](https://github.com/azzzak/alice) - Библиотека с упором на скорость и простоту разработки
 
 #### Kotlin
 
