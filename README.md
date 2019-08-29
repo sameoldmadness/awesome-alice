@@ -39,6 +39,7 @@
 
 - [mesilov/yandex-dialogs-php-sdk](https://github.com/mesilov/yandex-dialogs-php-sdk.git)
 - [jeyroik/php-yandex-alisa-advanced](https://github.com/jeyroik/php-yandex-alisa-advanced)
+- [jeyroik/alice-extas](https://github.com/jeyroik/alice-extas)
 - [Danil005/php-yandex-alisa](https://github.com/Danil005/php-yandex-alisa)
 - [thesoultaker48/yandex-dialogs-php](https://github.com/thesoultaker48/yandex-dialogs-php)
 - [zz-anton/ru.foralice.yandex-dialogs-api-hide-my-oauth](https://github.com/zz-anton/ru.foralice.yandex-dialogs-api-hide-my-oauth) - скрипт для работы сервиса [ImgAdmin](https://imgAdmin.forAlice.ru) с безопасным использованием конфиденциального идентификатора OAuth пользователя. В коде реализованы методы для работы с изображениями через API Яндекс.Диалогов.
