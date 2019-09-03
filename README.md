@@ -88,6 +88,7 @@
 - [surik00/aioAlice](https://github.com/surik00/aioalice/tree/master/examples) - Примеры на Python + aioAlice
 - [borzunov/alice_scripts](https://github.com/borzunov/alice_scripts#%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B) - Примеры на Python + alice_scripts
 - [AlexSuperStar/Yandex-Alisa-PHP-Example](https://github.com/AlexSuperStar/Yandex-Alisa-PHP-Example) - Пример минимального кода на PHP
+- [vitalets/alice-skill-starter](https://github.com/vitalets/alice-skill-starter) - Быстрый старт навыка для Алисы на Node.js
 
 ### Open-source навыки
 
