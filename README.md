@@ -64,6 +64,7 @@
 - [Тест прокси](https://dialogs.yandex.ru/store/skills/42f51951-test-proksi) - Навык алисы, проксирует запросы на указанный адрес
 - [Эмулятор Алисы](https://github.com/vb64/test.helper.yandex.alice.flask) - Для юнит-тестов навыков, реализованных как приложение python/flask
 - [alice-tester](https://github.com/vitalets/alice-tester) - Библиотека для автоматического тестирования навыков под  Node.js
+- [alice-cloud-proxy](https://github.com/vitalets/alice-cloud-proxy) - Универсальная [облачная функция](https://cloud.yandex.ru/docs/functions/concepts/function) для проксирования запросов на заданный урл. Позволяет тестировать локальную версию навыка прямо в приложениях с Алисой.
 
 ### Конструкторы и платформы
 
