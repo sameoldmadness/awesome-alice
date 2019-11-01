@@ -112,7 +112,7 @@
 - https://t.me/yandexdb - Новости и полезная информация про Яндекс.Станцию, Dexp Smartbox, Irbis A
 - https://t.me/yandexflood - Флудилка для пользователей Яндекс Станции
 - https://t.me/NewAliceSkills - Автоматический сканер новых навыков
-- https://t.me/yandex_cloud - Чат для вопросов по Яндекс.Облаку
+- https://t.me/yandexcloud_chat - Чат для вопросов по Яндекс.Облаку
 
 ## Прочее
 
