@@ -65,6 +65,8 @@
 - [Эмулятор Алисы](https://github.com/vb64/test.helper.yandex.alice.flask) - Для юнит-тестов навыков, реализованных как приложение python/flask
 - [alice-tester](https://github.com/vitalets/alice-tester) - Библиотека для автоматического тестирования навыков под  Node.js
 - [alice-cloud-proxy](https://github.com/vitalets/alice-cloud-proxy) - Универсальная [облачная функция](https://cloud.yandex.ru/docs/functions/concepts/function) для проксирования запросов на заданный урл. Позволяет тестировать локальную версию навыка прямо в приложениях с Алисой.
+- [alice-dev.vitalets.xyz](https://alice-dev.vitalets.xyz/) - Отладка навыков прямо на устройстве без публикации в каталоге. Работает через веб-интерфейс в браузере и специальный навык "Инструменты разработчика".
+
 
 ### Конструкторы и платформы
 
