@@ -125,3 +125,4 @@
 - [Связка аккаунтов Алиса и Яндекс.Паспорт (OAuth2)](https://github.com/mokaton/wild-alice/blob/master/alice-oauth2-account-associate.md) - инструкция как сделать связку аккаунтов для Алисы без своего OAuth2-сервера
 - [alice-protocol](https://github.com/vitalets/alice-protocol) - JSON схемы запросов и ответов в навыках Алисы.
 - [yadialogsbot](https://t.me/yadialogsbot) - Телеграм чат-бот для мониторинга позиции в каталоге @yadialogsbot
+- [alice-asset-manager](https://github.com/vitalets/alice-asset-manager) - Node.js API для загрузки изображений и звуков в навык Алисы.
