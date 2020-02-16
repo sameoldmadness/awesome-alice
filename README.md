@@ -4,20 +4,21 @@
 
 ## Оглавление
 
-* [Разработка](#Разработка)
+* [Разработка](#разработка)
   * [SDK](#sdk)
     * [JS](#js)
     * [Python](#python)
     * [PHP](#php)
     * [Go](#go)
     * [Kotlin](#kotlin)
-  * [Тестирование](#Тестирование)
-  * [Конструкторы и платформы](#Конструкторы-и-платформы)
-* [Примеры и навыки](#Примеры-и-навыки)
-  * [Примеры](#Примеры)
+  * [Тестирование](#тестирование)
+  * [Конструкторы и платформы](#конструкторы-и-платформы)
+* [Примеры и навыки](#примеры-и-навыки)
+  * [Примеры](#примеры)
   * [Open-source навыки](#open-source-навыки)
-* [Чаты](#Чаты)
-* [Прочее](#Прочее)
+* [Видео](#видео)  
+* [Чаты](#чаты)
+* [Прочее](#прочее)
 
 ## Разработка
 
@@ -105,8 +106,18 @@
 - [DenisNP/AliceHook](https://github.com/DenisNP/AliceHook) - навык на C# для связывания Алисы с вебхуками [Мой Исполнитель](https://dialogs.yandex.ru/store/skills/85384c00-moj-ispolnitel)
 
 ## Умный дом
+
 - [popstas/yandex-dialogs-smarthome-mqtt](https://github.com/popstas/yandex-dialogs-smarthome-mqtt) - Пример Provider Adapter API для управления MQTT устройствами
 - [munrexio/yandex2mqtt](https://github.com/munrexio/yandex2mqtt) - Мост из Яндекс УД в MQTT на Node.js
+
+## Видео
+
+- [Школа Алисы - официальный канал на YouTube](https://www.youtube.com/channel/UCzQZwJjg0_1RyYPWB9sc4Wg)
+- [Новая платформа уже здесь / Владимир Гриненко - WSD в Петербурге 2019](https://youtu.be/_0psqory6rk?t=22984)
+- [Алиса, пойдём во фронтенд! / Никита Дубко - FrontendConf 2019](https://youtu.be/yjTH8-O3CMA)
+- [Как и зачем разрабатывать свой скилл для Алисы / Виталий Потапов - AstanaJS 2019](https://youtu.be/zNMSjGv4kIQ)
+
+
 ## Чаты
 
 - https://t.me/yadialogschat - Сообщество разработчиков Яндекс.Диалогов
