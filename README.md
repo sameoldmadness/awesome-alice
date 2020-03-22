@@ -56,6 +56,7 @@
 #### Kotlin
 
 - [SavinMike/alice-kotlin-bot](https://github.com/SavinMike/alice-kotlin-bot)
+- [Just AI Conversational Framework](https://github.com/just-ai/jaicf-kotlin/tree/master/channels/yandex-alice)
 
 ### Тестирование
 
