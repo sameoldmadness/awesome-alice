@@ -56,6 +56,7 @@
 #### Kotlin
 
 - [SavinMike/alice-kotlin-bot](https://github.com/SavinMike/alice-kotlin-bot)
+- [Just AI Conversational Framework](https://github.com/just-ai/jaicf-kotlin/tree/master/channels/yandex-alice)
 
 ### Тестирование
 
@@ -94,6 +95,7 @@
 - [borzunov/alice_scripts](https://github.com/borzunov/alice_scripts#%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B) - Примеры на Python + alice_scripts
 - [AlexSuperStar/Yandex-Alisa-PHP-Example](https://github.com/AlexSuperStar/Yandex-Alisa-PHP-Example) - Пример минимального кода на PHP
 - [vitalets/alice-skill-starter](https://github.com/vitalets/alice-skill-starter) - Быстрый старт навыка для Алисы на Node.js
+- [alice-jaicf-template](https://github.com/just-ai/alice-jaicf-template) - Шаблонный проект на Kotlin
 
 ### Open-source навыки
 
