@@ -60,7 +60,7 @@
 
 ### Тестирование
 
-- [popstas/yandex-dialogs-client](https://github.com/popstas/yandex-dialogs-client) - Клиент для локального тестирования навыков
+- [popstas/yandex-dialogs-client](https://github.com/popstas/yandex-dialogs-client) - Тестирование навыков с автотестами
 - [alice-nearby](https://github.com/azzzak/alice-nearby) - Утилита с веб-интерфейсом для локального тестирования навыков
 - [Симулятор Яндекс Станции](https://station.aimylogic.com/) - Голосовой симулятор в браузере для тестирования навыков
 - [Тест прокси](https://dialogs.yandex.ru/store/skills/42f51951-test-proksi) - Навык алисы, проксирует запросы на указанный адрес
