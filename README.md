@@ -4,20 +4,21 @@
 
 ## Оглавление
 
-* [Разработка](#Разработка)
+* [Разработка](#разработка)
   * [SDK](#sdk)
     * [JS](#js)
     * [Python](#python)
     * [PHP](#php)
     * [Go](#go)
     * [Kotlin](#kotlin)
-  * [Тестирование](#Тестирование)
-  * [Конструкторы и платформы](#Конструкторы-и-платформы)
-* [Примеры и навыки](#Примеры-и-навыки)
-  * [Примеры](#Примеры)
+  * [Тестирование](#тестирование)
+  * [Конструкторы и платформы](#конструкторы-и-платформы)
+* [Примеры и навыки](#примеры-и-навыки)
+  * [Примеры](#примеры)
   * [Open-source навыки](#open-source-навыки)
-* [Чаты](#Чаты)
-* [Прочее](#Прочее)
+* [Видео](#видео)  
+* [Чаты](#чаты)
+* [Прочее](#прочее)
 
 ## Разработка
 
@@ -32,7 +33,7 @@
 #### Python
 
 - [Dikower/Alice_SeaBattle_YandexHackathone](https://github.com/Dikower/Alice_SeaBattle_YandexHackathone/blob/master/alice_sdk.py)
-- [surik00/aioAlice](https://github.com/surik00/aioalice) - asyncio библиотека для Python 3.6+
+- [mahenzon/aioAlice](https://github.com/mahenzon/aioalice) - asyncio библиотека для Python 3.6+
 - [borzunov/alice_scripts](https://github.com/borzunov/alice_scripts)
 - [avidale/tgalice](https://github.com/avidale/tgalice) - общая обёртка для навыков в Алисе, ботов в Telegram и Facebook на Python 3.6+
 
@@ -55,15 +56,19 @@
 #### Kotlin
 
 - [SavinMike/alice-kotlin-bot](https://github.com/SavinMike/alice-kotlin-bot)
+- [Just AI Conversational Framework](https://github.com/just-ai/jaicf-kotlin/tree/master/channels/yandex-alice)
 
 ### Тестирование
 
-- [popstas/yandex-dialogs-client](https://github.com/popstas/yandex-dialogs-client) - Клиент для локального тестирования навыков
+- [popstas/yandex-dialogs-client](https://github.com/popstas/yandex-dialogs-client) - Тестирование навыков с автотестами
 - [alice-nearby](https://github.com/azzzak/alice-nearby) - Утилита с веб-интерфейсом для локального тестирования навыков
 - [Симулятор Яндекс Станции](https://station.aimylogic.com/) - Голосовой симулятор в браузере для тестирования навыков
 - [Тест прокси](https://dialogs.yandex.ru/store/skills/42f51951-test-proksi) - Навык алисы, проксирует запросы на указанный адрес
 - [Эмулятор Алисы](https://github.com/vb64/test.helper.yandex.alice.flask) - Для юнит-тестов навыков, реализованных как приложение python/flask
 - [alice-tester](https://github.com/vitalets/alice-tester) - Библиотека для автоматического тестирования навыков под  Node.js
+- [alice-cloud-proxy](https://github.com/vitalets/alice-cloud-proxy) - Универсальная [облачная функция](https://cloud.yandex.ru/docs/functions/concepts/function) для проксирования запросов на заданный урл. Позволяет тестировать локальную версию навыка прямо в приложениях с Алисой.
+- [alice-dev.vitalets.xyz](https://alice-dev.vitalets.xyz/) - Отладка навыков прямо на устройстве без публикации в каталоге. Работает через веб-интерфейс в браузере и специальный навык "Инструменты разработчика".
+
 
 ### Конструкторы и платформы
 
@@ -91,6 +96,7 @@
 - [AlexSuperStar/Yandex-Alisa-PHP-Example](https://github.com/AlexSuperStar/Yandex-Alisa-PHP-Example) - Пример минимального кода на PHP
 - [vitalets/alice-skill-starter](https://github.com/vitalets/alice-skill-starter) - Быстрый старт навыка для Алисы на Node.js
 - [demo-alice-translate-skill](https://github.com/avidale/demo-alice-translate-skill) - простой навык ["Крот-полиглот"](https://dialogs.yandex.ru/store/skills/622af903-krot-poliglot) на Python и Yandex cloud functions с использованием встроенных интентов, хранилища состояния, и связки с API Яндекс.Переводчика.
+- [alice-jaicf-template](https://github.com/just-ai/alice-jaicf-template) - Шаблонный проект на Kotlin
 
 ### Open-source навыки
 
@@ -100,11 +106,22 @@
 - [xoposhiy/prog-eng-alice](https://github.com/xoposhiy/prog-eng-alice) – Пример на C#, Навык Алисы для изучения программистского английского
 - [vb64/bulls_cows](https://github.com/vb64/bulls_cows) - Пример на Python/Flask, для развертывания на [GoogleAppEngine Standard Environment](https://cloud.google.com/appengine/docs/standard/) навык [логическая игра быки и коровы](https://alice.ya.ru/s/59166701-101b-44b3-b7e3-b7e078036890)
 - [x6b726173/alice-word-by-word](https://github.com/x6b726173/alice-word-by-word) - Пример на Python/aiohttp [aioalice](https://github.com/surik00/aioalice), навык [игра Слово за слово](https://alice.ya.ru/s/9d5dad53-1dd3-4f14-805a-6bc374ec579d)
+- [DenisNP/AliceHook](https://github.com/DenisNP/AliceHook) - навык на C# для связывания Алисы с вебхуками [Мой Исполнитель](https://dialogs.yandex.ru/store/skills/85384c00-moj-ispolnitel)
 
 
 ## Умный дом
+
 - [popstas/yandex-dialogs-smarthome-mqtt](https://github.com/popstas/yandex-dialogs-smarthome-mqtt) - Пример Provider Adapter API для управления MQTT устройствами
 - [munrexio/yandex2mqtt](https://github.com/munrexio/yandex2mqtt) - Мост из Яндекс УД в MQTT на Node.js
+
+## Видео
+
+- [Школа Алисы - официальный канал на YouTube](https://www.youtube.com/channel/UCzQZwJjg0_1RyYPWB9sc4Wg)
+- [Новая платформа уже здесь / Владимир Гриненко - WSD в Петербурге 2019](https://youtu.be/_0psqory6rk?t=22984)
+- [Алиса, пойдём во фронтенд! / Никита Дубко - FrontendConf 2019](https://youtu.be/yjTH8-O3CMA)
+- [Как и зачем разрабатывать свой скилл для Алисы / Виталий Потапов - AstanaJS 2019](https://youtu.be/zNMSjGv4kIQ)
+
+
 ## Чаты
 
 - https://t.me/yadialogschat - Сообщество разработчиков Яндекс.Диалогов
@@ -113,6 +130,7 @@
 - https://t.me/yandexdb - Новости и полезная информация про Яндекс.Станцию, Dexp Smartbox, Irbis A
 - https://t.me/yandexflood - Флудилка для пользователей Яндекс Станции
 - https://t.me/NewAliceSkills - Автоматический сканер новых навыков
+- https://t.me/yandexcloud_chat - Чат для вопросов по Яндекс.Облаку
 
 ## Прочее
 
@@ -120,3 +138,7 @@
 - [aliceskill](https://aliceskill.ru/) - Неофициальный каталог навыков
 - [alice.voice-ui.ru](https://alice.voice-ui.ru) - Неофициальный каталог навыков с сортировкой по новизне
 - [Связка аккаунтов Алиса и Яндекс.Паспорт (OAuth2)](https://github.com/mokaton/wild-alice/blob/master/alice-oauth2-account-associate.md) - инструкция как сделать связку аккаунтов для Алисы без своего OAuth2-сервера
+- [alice-protocol](https://github.com/vitalets/alice-protocol) - JSON схемы запросов и ответов в навыках Алисы.
+- [yadialogsbot](https://t.me/yadialogsbot) - Телеграм чат-бот для мониторинга позиции в каталоге @yadialogsbot
+- [alice-asset-manager](https://github.com/vitalets/alice-asset-manager) - Node.js API для загрузки изображений и звуков в навык Алисы.
+- [Что умеет Dialogflow?](https://habr.com/ru/post/502688/) - Tutorial по Dialogflow
