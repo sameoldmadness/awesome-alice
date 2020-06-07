@@ -95,6 +95,7 @@
 - [borzunov/alice_scripts](https://github.com/borzunov/alice_scripts#%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B) - Примеры на Python + alice_scripts
 - [AlexSuperStar/Yandex-Alisa-PHP-Example](https://github.com/AlexSuperStar/Yandex-Alisa-PHP-Example) - Пример минимального кода на PHP
 - [vitalets/alice-skill-starter](https://github.com/vitalets/alice-skill-starter) - Быстрый старт навыка для Алисы на Node.js
+- [demo-alice-translate-skill](https://github.com/avidale/demo-alice-translate-skill) - простой навык ["Крот-полиглот"](https://dialogs.yandex.ru/store/skills/622af903-krot-poliglot) на Python и Yandex cloud functions с использованием встроенных интентов, хранилища состояния, и связки с API Яндекс.Переводчика.
 - [alice-jaicf-template](https://github.com/just-ai/alice-jaicf-template) - Шаблонный проект на Kotlin
 
 ### Open-source навыки
@@ -106,6 +107,7 @@
 - [vb64/bulls_cows](https://github.com/vb64/bulls_cows) - Пример на Python/Flask, для развертывания на [GoogleAppEngine Standard Environment](https://cloud.google.com/appengine/docs/standard/) навык [логическая игра быки и коровы](https://alice.ya.ru/s/59166701-101b-44b3-b7e3-b7e078036890)
 - [x6b726173/alice-word-by-word](https://github.com/x6b726173/alice-word-by-word) - Пример на Python/aiohttp [aioalice](https://github.com/surik00/aioalice), навык [игра Слово за слово](https://alice.ya.ru/s/9d5dad53-1dd3-4f14-805a-6bc374ec579d)
 - [DenisNP/AliceHook](https://github.com/DenisNP/AliceHook) - навык на C# для связывания Алисы с вебхуками [Мой Исполнитель](https://dialogs.yandex.ru/store/skills/85384c00-moj-ispolnitel)
+
 
 ## Умный дом
 
