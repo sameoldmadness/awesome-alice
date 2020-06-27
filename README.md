@@ -112,7 +112,7 @@
 - [vb64/bulls_cows](https://github.com/vb64/bulls_cows) - Пример на Python/Flask, для развертывания на [GoogleAppEngine Standard Environment](https://cloud.google.com/appengine/docs/standard/) навык [логическая игра быки и коровы](https://alice.ya.ru/s/59166701-101b-44b3-b7e3-b7e078036890)
 - [x6b726173/alice-word-by-word](https://github.com/x6b726173/alice-word-by-word) - Пример на Python/aiohttp [aioalice](https://github.com/surik00/aioalice), навык [игра Слово за слово](https://alice.ya.ru/s/9d5dad53-1dd3-4f14-805a-6bc374ec579d)
 - [DenisNP/AliceHook](https://github.com/DenisNP/AliceHook) - навык на C# для связывания Алисы с вебхуками [Мой Исполнитель](https://dialogs.yandex.ru/store/skills/85384c00-moj-ispolnitel)
-
+- [denismosolov/oliver](https://github.com/denismosolov/oliver) - приватный навык на PHP для управления брокерским счётом: покупка и продажа акций на бирже и т.д. Использует [Тинькофф Инвестиции OpenAPI](https://github.com/TinkoffCreditSystems/invest-openapi)
 
 ## Умный дом
 
