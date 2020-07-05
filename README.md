@@ -118,6 +118,7 @@
 
 - [popstas/yandex-dialogs-smarthome-mqtt](https://github.com/popstas/yandex-dialogs-smarthome-mqtt) - Пример Provider Adapter API для управления MQTT устройствами
 - [munrexio/yandex2mqtt](https://github.com/munrexio/yandex2mqtt) - Мост из Яндекс УД в MQTT на Node.js
+- [subnetsRU/alice-command-skill](https://github.com/subnetsRU/alice-command-skill) - Навык позволяет выполнять несколько сценариев умного дома
 
 ## Видео
 
