@@ -11,6 +11,7 @@
     * [PHP](#php)
     * [Go](#go)
     * [Kotlin](#kotlin)
+    * [C#](#c#)
   * [Тестирование](#тестирование)
   * [Конструкторы и платформы](#конструкторы-и-платформы)
   * [Обработка естественного языка (NLP)](#обработка-естественного-языка)
@@ -60,6 +61,9 @@
 
 - [SavinMike/alice-kotlin-bot](https://github.com/SavinMike/alice-kotlin-bot)
 - [Just AI Conversational Framework](https://github.com/just-ai/jaicf-kotlin/tree/master/channels/yandex-alice)
+
+#### C#
+- [alexvolchetsky/yandex.alice.sdk](https://github.com/alexvolchetsky/yandex.alice.sdk)
 
 ### Тестирование
 
