@@ -64,6 +64,7 @@
 
 #### C#
 - [alexvolchetsky/yandex.alice.sdk](https://github.com/alexvolchetsky/yandex.alice.sdk)
+- [granstel/Yandex.Dialogs.Models](https://github.com/granstel/Yandex.Dialogs.Models)
 
 ### Тестирование
 
@@ -81,6 +82,7 @@
 
 - [verter](https://www.verter.online/) - Создание навыков без программирования
 - [alfabot](http://alfabot.xyz/) - Конструктор навыков
+- [Google Dialogflow](https://dialogflow.com/) - платформа для распознавания естественного языка и ведения диалога
 - [dialogflower](https://dialogflower.com/) - Google Dialogflow для Яндекс Алисы
 - [aimylogic](https://app.aimylogic.com) - Визуальный конструктор навыков
 - [pipe.bot](https://pipe.bot/) - Конструктор ботов с поддержкой Алисы
@@ -119,6 +121,7 @@
 - [DenisNP/AliceHook](https://github.com/DenisNP/AliceHook) - навык на C# для связывания Алисы с вебхуками [Мой Исполнитель](https://dialogs.yandex.ru/store/skills/85384c00-moj-ispolnitel)
 - [denismosolov/oliver](https://github.com/denismosolov/oliver) - приватный навык на PHP для управления брокерским счётом: покупка и продажа акций на бирже и т.д. Использует [Тинькофф Инвестиции OpenAPI](https://github.com/TinkoffCreditSystems/invest-openapi)
 - [StopChangingTheName/alice-skills](https://github.com/StopChangingTheName/alice-skills) - Полноценный навык ["Знатоки истории"](https://dialogs.yandex.ru/store/skills/1424e7f5-ege-po-istorii) на Python
+- [granstel/FillInTheTextBot](https://github.com/granstel/FillInTheTextBot) - исходный код навыка ["Занимательные истории"](https://dialogs.yandex.ru/store/skills/12ef2083-sochinyal); C#, .net core 3.1
 
 ## Умный дом
 
