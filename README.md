@@ -11,7 +11,7 @@
     * [PHP](#php)
     * [Go](#go)
     * [Kotlin](#kotlin)
-    * [C#](#c#)
+    * [C#](#c)
   * [Тестирование](#тестирование)
   * [Конструкторы и платформы](#конструкторы-и-платформы)
   * [Обработка естественного языка (NLP)](#обработка-естественного-языка)
@@ -109,6 +109,7 @@
 - [vitalets/alice-skill-starter](https://github.com/vitalets/alice-skill-starter) - Быстрый старт навыка для Алисы на Node.js
 - [demo-alice-translate-skill](https://github.com/avidale/demo-alice-translate-skill) - простой навык ["Крот-полиглот"](https://dialogs.yandex.ru/store/skills/622af903-krot-poliglot) на Python и Yandex cloud functions с использованием встроенных интентов, хранилища состояния, и связки с API Яндекс.Переводчика.
 - [alice-jaicf-template](https://github.com/just-ai/alice-jaicf-template) - Шаблонный проект на Kotlin
+- [granstel/Templates.Chatbot](https://github.com/granstel/Templates.Chatbot) - Шаблонный проект на C# (Алиса, Telegram, Chat2Desk)
 
 ### Open-source навыки
 
