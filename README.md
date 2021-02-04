@@ -11,7 +11,7 @@
     * [PHP](#php)
     * [Go](#go)
     * [Kotlin](#kotlin)
-    * [C#](#c#)
+    * [C#](#c)
   * [Тестирование](#тестирование)
   * [Конструкторы и платформы](#конструкторы-и-платформы)
   * [Обработка естественного языка (NLP)](#обработка-естественного-языка)
@@ -64,6 +64,7 @@
 
 #### C#
 - [alexvolchetsky/yandex.alice.sdk](https://github.com/alexvolchetsky/yandex.alice.sdk)
+- [granstel/Yandex.Dialogs.Models](https://github.com/granstel/Yandex.Dialogs.Models)
 
 ### Тестирование
 
@@ -107,6 +108,7 @@
 - [vitalets/alice-skill-starter](https://github.com/vitalets/alice-skill-starter) - Быстрый старт навыка для Алисы на Node.js
 - [demo-alice-translate-skill](https://github.com/avidale/demo-alice-translate-skill) - простой навык ["Крот-полиглот"](https://dialogs.yandex.ru/store/skills/622af903-krot-poliglot) на Python и Yandex cloud functions с использованием встроенных интентов, хранилища состояния, и связки с API Яндекс.Переводчика.
 - [alice-jaicf-template](https://github.com/just-ai/alice-jaicf-template) - Шаблонный проект на Kotlin
+- [granstel/Templates.Chatbot](https://github.com/granstel/Templates.Chatbot) - Шаблонный проект на C# (Алиса, Telegram, Chat2Desk)
 
 ### Open-source навыки
 
@@ -119,6 +121,7 @@
 - [DenisNP/AliceHook](https://github.com/DenisNP/AliceHook) - навык на C# для связывания Алисы с вебхуками [Мой Исполнитель](https://dialogs.yandex.ru/store/skills/85384c00-moj-ispolnitel)
 - [denismosolov/oliver](https://github.com/denismosolov/oliver) - приватный навык на PHP для управления брокерским счётом: покупка и продажа акций на бирже и т.д. Использует [Тинькофф Инвестиции OpenAPI](https://github.com/TinkoffCreditSystems/invest-openapi)
 - [StopChangingTheName/alice-skills](https://github.com/StopChangingTheName/alice-skills) - Полноценный навык ["Знатоки истории"](https://dialogs.yandex.ru/store/skills/1424e7f5-ege-po-istorii) на Python
+- [granstel/FillInTheTextBot](https://github.com/granstel/FillInTheTextBot) - исходный код навыка ["Занимательные истории"](https://dialogs.yandex.ru/store/skills/12ef2083-sochinyal); C#, .net core 3.1
 
 ## Умный дом
 
