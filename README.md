@@ -82,7 +82,6 @@
 
 - [verter](https://www.verter.online/) - Создание навыков без программирования
 - [alfabot](http://alfabot.xyz/) - Конструктор навыков
-- [Google Dialogflow](https://dialogflow.com/) - платформа для распознавания естественного языка и ведения диалога
 - [dialogflower](https://dialogflower.com/) - Google Dialogflow для Яндекс Алисы
 - [aimylogic](https://app.aimylogic.com) - Визуальный конструктор навыков
 - [pipe.bot](https://pipe.bot/) - Конструктор ботов с поддержкой Алисы
