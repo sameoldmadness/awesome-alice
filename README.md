@@ -11,8 +11,10 @@
     * [PHP](#php)
     * [Go](#go)
     * [Kotlin](#kotlin)
+    * [C#](#c)
   * [Тестирование](#тестирование)
   * [Конструкторы и платформы](#конструкторы-и-платформы)
+  * [Обработка естественного языка (NLP)](#обработка-естественного-языка)
 * [Примеры и навыки](#примеры-и-навыки)
   * [Примеры](#примеры)
   * [Open-source навыки](#open-source-навыки)
@@ -29,6 +31,7 @@
 - [fletcherist/yandex-dialogs-sdk](https://github.com/fletcherist/yandex-dialogs-sdk)
 - [skoif/Yandex-Dialogs](https://github.com/skoif/Yandex-Dialogs)
 - [vitalets/alice-renderer](https://github.com/vitalets/alice-renderer) - Библиотека для формирования ответов в навыках Алисы
+- [alexander-karpov/yandex-dialoger](https://github.com/alexander-karpov/yandex-dialoger) - Ещё библиотека для написания навыков Алисы
 
 #### Python
 
@@ -36,6 +39,7 @@
 - [mahenzon/aioAlice](https://github.com/mahenzon/aioalice) - asyncio библиотека для Python 3.6+
 - [borzunov/alice_scripts](https://github.com/borzunov/alice_scripts)
 - [avidale/dialogic](https://github.com/avidale/dialogic) (бывшая tgalice) - общая обёртка для навыков в Алисе и Салюте, ботов в Telegram, ВК и Facebook на Python 3.6+
+- [format37/alice](https://github.com/format37/alice) - сокращенный пример aiohttp сервера
 
 #### PHP
 
@@ -57,6 +61,10 @@
 
 - [SavinMike/alice-kotlin-bot](https://github.com/SavinMike/alice-kotlin-bot)
 - [Just AI Conversational Framework](https://github.com/just-ai/jaicf-kotlin/tree/master/channels/yandex-alice)
+
+#### C#
+- [alexvolchetsky/yandex.alice.sdk](https://github.com/alexvolchetsky/yandex.alice.sdk)
+- [granstel/Yandex.Dialogs.Models](https://github.com/granstel/Yandex.Dialogs.Models)
 
 ### Тестирование
 
@@ -83,6 +91,9 @@
 - [DeepPavlov](https://deeppavlov.ai/) - Библиотека для разработки диалоговых систем
 - [ImgAdmin](https://imgadmin.foralice.ru/) - Администратор изображений для системы Яндекс.Диалоги / Навыки Алисы
 
+### Обработка естественного языка
+- [сущности](https://github.com/denismosolov/alice-entities-library) - Содержит описания сущностей, которые могут вам пригодиться при написании грамматики.
+
 ## Примеры и навыки
 
 ### Примеры
@@ -97,6 +108,7 @@
 - [vitalets/alice-skill-starter](https://github.com/vitalets/alice-skill-starter) - Быстрый старт навыка для Алисы на Node.js
 - [demo-alice-translate-skill](https://github.com/avidale/demo-alice-translate-skill) - простой навык ["Крот-полиглот"](https://dialogs.yandex.ru/store/skills/622af903-krot-poliglot) на Python и Yandex cloud functions с использованием встроенных интентов, хранилища состояния, и связки с API Яндекс.Переводчика.
 - [alice-jaicf-template](https://github.com/just-ai/alice-jaicf-template) - Шаблонный проект на Kotlin
+- [granstel/Templates.Chatbot](https://github.com/granstel/Templates.Chatbot) - Шаблонный проект на C# (Алиса, Telegram, Chat2Desk)
 
 ### Open-source навыки
 
@@ -107,12 +119,15 @@
 - [vb64/bulls_cows](https://github.com/vb64/bulls_cows) - Пример на Python/Flask, для развертывания на [GoogleAppEngine Standard Environment](https://cloud.google.com/appengine/docs/standard/) навык [логическая игра быки и коровы](https://alice.ya.ru/s/59166701-101b-44b3-b7e3-b7e078036890)
 - [x6b726173/alice-word-by-word](https://github.com/x6b726173/alice-word-by-word) - Пример на Python/aiohttp [aioalice](https://github.com/surik00/aioalice), навык [игра Слово за слово](https://alice.ya.ru/s/9d5dad53-1dd3-4f14-805a-6bc374ec579d)
 - [DenisNP/AliceHook](https://github.com/DenisNP/AliceHook) - навык на C# для связывания Алисы с вебхуками [Мой Исполнитель](https://dialogs.yandex.ru/store/skills/85384c00-moj-ispolnitel)
-
+- [denismosolov/oliver](https://github.com/denismosolov/oliver) - приватный навык на PHP для управления брокерским счётом: покупка и продажа акций на бирже и т.д. Использует [Тинькофф Инвестиции OpenAPI](https://github.com/TinkoffCreditSystems/invest-openapi)
+- [StopChangingTheName/alice-skills](https://github.com/StopChangingTheName/alice-skills) - Полноценный навык ["Знатоки истории"](https://dialogs.yandex.ru/store/skills/1424e7f5-ege-po-istorii) на Python
+- [granstel/FillInTheTextBot](https://github.com/granstel/FillInTheTextBot) - исходный код навыка ["Занимательные истории"](https://dialogs.yandex.ru/store/skills/12ef2083-sochinyal); C#, .net core 3.1
 
 ## Умный дом
 
 - [popstas/yandex-dialogs-smarthome-mqtt](https://github.com/popstas/yandex-dialogs-smarthome-mqtt) - Пример Provider Adapter API для управления MQTT устройствами
 - [munrexio/yandex2mqtt](https://github.com/munrexio/yandex2mqtt) - Мост из Яндекс УД в MQTT на Node.js
+- [subnetsRU/alice-command-skill](https://github.com/subnetsRU/alice-command-skill) - Навык позволяет выполнять несколько сценариев умного дома
 
 ## Видео
 
