@@ -32,6 +32,7 @@
 - [skoif/Yandex-Dialogs](https://github.com/skoif/Yandex-Dialogs)
 - [vitalets/alice-renderer](https://github.com/vitalets/alice-renderer) - Библиотека для формирования ответов в навыках Алисы
 - [alexander-karpov/yandex-dialoger](https://github.com/alexander-karpov/yandex-dialoger) - Ещё библиотека для написания навыков Алисы
+- [vitalets/alice-types](https://github.com/vitalets/alice-types) - Тайпинги для протокола запросов/ответов в навыках Алисы
 
 #### Python
 
