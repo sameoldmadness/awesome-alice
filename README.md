@@ -39,7 +39,7 @@
 - [Dikower/Alice_SeaBattle_YandexHackathone](https://github.com/Dikower/Alice_SeaBattle_YandexHackathone/blob/master/alice_sdk.py)
 - [mahenzon/aioAlice](https://github.com/mahenzon/aioalice) - asyncio библиотека для Python 3.6+
 - [borzunov/alice_scripts](https://github.com/borzunov/alice_scripts)
-- [avidale/tgalice](https://github.com/avidale/tgalice) - общая обёртка для навыков в Алисе, ботов в Telegram и Facebook на Python 3.6+
+- [avidale/dialogic](https://github.com/avidale/dialogic) (бывшая tgalice) - общая обёртка для навыков в Алисе и Салюте, ботов в Telegram, ВК и Facebook на Python 3.6+
 - [format37/alice](https://github.com/format37/alice) - сокращенный пример aiohttp сервера
 
 #### PHP
