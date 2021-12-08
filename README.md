@@ -122,7 +122,7 @@
 - [DenisNP/AliceHook](https://github.com/DenisNP/AliceHook) - навык на C# для связывания Алисы с вебхуками [Мой Исполнитель](https://dialogs.yandex.ru/store/skills/85384c00-moj-ispolnitel)
 - [denismosolov/oliver](https://github.com/denismosolov/oliver) - приватный навык на PHP для управления брокерским счётом: покупка и продажа акций на бирже и т.д. Использует [Тинькофф Инвестиции OpenAPI](https://github.com/TinkoffCreditSystems/invest-openapi)
 - [StopChangingTheName/alice-skills](https://github.com/StopChangingTheName/alice-skills) - Полноценный навык ["Знатоки истории"](https://dialogs.yandex.ru/store/skills/1424e7f5-ege-po-istorii) на Python
-- [granstel/FillInTheTextBot](https://github.com/granstel/FillInTheTextBot) - исходный код навыка ["Занимательные истории"](https://dialogs.yandex.ru/store/skills/12ef2083-sochinyal); C#, .net core 3.1
+- [granstel/FillInTheTextBot](https://github.com/granstel/FillInTheTextBot) - исходный код навыка ["Занимательные истории"](https://dialogs.yandex.ru/store/skills/12ef2083-sochinyal); C#, .net 6
 
 ## Умный дом
 
