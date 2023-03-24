@@ -71,7 +71,6 @@
 
 - [popstas/yandex-dialogs-client](https://github.com/popstas/yandex-dialogs-client) - Тестирование навыков с автотестами
 - [alice-nearby](https://github.com/azzzak/alice-nearby) - Утилита с веб-интерфейсом для локального тестирования навыков
-- [Симулятор Яндекс Станции](https://station.aimylogic.com/) - Голосовой симулятор в браузере для тестирования навыков
 - [Тест прокси](https://dialogs.yandex.ru/store/skills/42f51951-test-proksi) - Навык алисы, проксирует запросы на указанный адрес
 - [Эмулятор Алисы](https://github.com/vb64/test.helper.yandex.alice.flask) - Для юнит-тестов навыков, реализованных как приложение python/flask
 - [alice-tester](https://github.com/vitalets/alice-tester) - Библиотека для автоматического тестирования навыков под  Node.js
