@@ -37,10 +37,11 @@
 #### Python
 
 - [Dikower/Alice_SeaBattle_YandexHackathone](https://github.com/Dikower/Alice_SeaBattle_YandexHackathone/blob/master/alice_sdk.py)
-- [mahenzon/aioAlice](https://github.com/mahenzon/aioalice) - asyncio библиотека для Python 3.6+
+- [mahenzon/aioAlice](https://github.com/mahenzon/aioalice) - Asyncio библиотека для Python 3.6+
 - [borzunov/alice_scripts](https://github.com/borzunov/alice_scripts)
-- [avidale/dialogic](https://github.com/avidale/dialogic) (бывшая tgalice) - общая обёртка для навыков в Алисе и Салюте, ботов в Telegram, ВК и Facebook на Python 3.6+
-- [format37/alice](https://github.com/format37/alice) - сокращенный пример aiohttp сервера
+- [avidale/dialogic](https://github.com/avidale/dialogic) (бывшая tgalice) - Общая обёртка для навыков в Алисе и Салюте, ботов в Telegram, ВК и Facebook на Python 3.6+
+- [format37/alice](https://github.com/format37/alice) - Сокращенный пример aiohttp сервера
+- [LazyDeus/alice_types](https://github.com/Demetrous-fd/alice_types) - Библиотека моделей Pydantic-V2 для валидации протокола Я.Диалогов
 
 #### PHP
 
