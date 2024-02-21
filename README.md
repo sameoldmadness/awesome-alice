@@ -41,6 +41,7 @@
 - [borzunov/alice_scripts](https://github.com/borzunov/alice_scripts)
 - [avidale/dialogic](https://github.com/avidale/dialogic) (бывшая tgalice) - общая обёртка для навыков в Алисе и Салюте, ботов в Telegram, ВК и Facebook на Python 3.6+
 - [format37/alice](https://github.com/format37/alice) - сокращенный пример aiohttp сервера
+- [K1rL3s/aliceio](https://github.com/K1rL3s/aliceio) - asyncio библиотека для Python 3.8+
 
 #### PHP
 
