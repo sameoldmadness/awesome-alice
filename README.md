@@ -33,6 +33,7 @@
 - [vitalets/alice-renderer](https://github.com/vitalets/alice-renderer) - Библиотека для формирования ответов в навыках Алисы
 - [alexander-karpov/yandex-dialoger](https://github.com/alexander-karpov/yandex-dialoger) - Ещё библиотека для написания навыков Алисы
 - [vitalets/alice-types](https://github.com/vitalets/alice-types) - Тайпинги для протокола запросов/ответов в навыках Алисы
+- [umbot](https://github.com/max36895/umbot) - Мультиплатформенный фреймворк на TypeScript для создания голосовых навыков и чат-ботов (Алиса, Маруся, Telegram, VK)
 
 #### Python
 
